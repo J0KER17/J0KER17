@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @J0KER17
-- 👀 I’m interested in Fivem server developer.
-- 🌱 I’m currently learning LUA, JS.
-- DC developer
+- 👀 I’m interested in Discord server developer.
+- 🌱 I’m currently learning JS.
+-
 - 
 <!---
 J0KER17/J0KER17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
